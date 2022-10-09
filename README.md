@@ -23,3 +23,14 @@ In the next part, you will Bootstrap script. If you encounter any issues, make s
 ./bootstrap
 ```
 The Bootstrap script may take a few minutes.
+
+Then do
+```
+make
+cd
+cd /usr/local/bin 
+sudo cp cmake /usr/bin/
+cmake --version
+```
+
+
